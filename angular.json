@@ -21,11 +21,12 @@
                 "input": "public"
               }
             ],
-            "styles": ["src/styles.css"]
+            "styles": ["src/styles.css"],
+            "outputPath": "dist/bulmaca-lab/browser",
+            "baseHref": "/bulmaca-lab/"
           },
           "configurations": {
             "production": {
-              "baseHref": "https://abdurrahmanyildirim.github.io",
               "budgets": [
                 {
                   "type": "initial",
