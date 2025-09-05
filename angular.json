@@ -23,7 +23,7 @@
             ],
             "styles": ["src/styles.css"],
             "outputPath": "dist/bulmaca-lab/browser",
-            "baseHref": "/bulmaca-lab/"
+            "baseHref": "https://abdurrahmanyildirim.github.io/bulmaca-lab"
           },
           "configurations": {
             "production": {
