@@ -5,6 +5,4 @@ import { Component, signal } from '@angular/core';
   templateUrl: './app.html',
   styleUrl: './app.css',
 })
-export class App {
-  protected readonly title = signal('bulmaca-lab');
-}
+export class App {}
